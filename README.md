@@ -44,5 +44,12 @@ The system automatically calculates and logs the following parameters every minu
    - `myChannelNumber` and `myWriteAPIKey` with your ThingSpeak channel details.
 5. Compile and flash the code to your ESP32.
 
+## Authors & Credits
+This project was developed in collaboration between:
+- **Gonçalo Carvalho** - [@GoncaloCarvalho](https://github.com/GoncaloCarvalho)
+- **Rodrigo Alves** - [@ras-Alves](https://github.com/ras-Alves)
+
+Special thanks to everyone who contributed to the testing and validation phases.
+
 ## Security Note
 Never commit your real Wi-Fi passwords or ThingSpeak API keys to a public repository. Always use placeholders or a `.gitignore` approach for sensitive credentials before pushing.
